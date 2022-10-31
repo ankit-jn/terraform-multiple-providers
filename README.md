@@ -40,16 +40,16 @@ This Example Configuration is a demonstration of dealing with multiple providers
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.2.5 |
 | <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 4.22.0 |
-| <a name="requirement_azurerm"></a> [aws](#requirement\_aws) | 3.14.0 |
-| <a name="requirement_http"></a> [aws](#requirement\_aws) | 2.2.0 |
+| <a name="requirement_azurerm"></a> [azurerm](#requirement\_aws) | 3.14.0 |
+| <a name="requirement_http"></a> [http](#requirement\_aws) | 2.2.0 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
 | <a name="provider_aws"></a> [aws](#provider\_aws) | >= 4.22.0 |
-| <a name="provider_azurerm"></a> [aws](#provider\_azurerm) | 3.14.0 |
-| <a name="provider_http"></a> [aws](#provider\_http) | 2.2.0 |
+| <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 3.14.0 |
+| <a name="provider_http"></a> [http](#provider\_http) | 2.2.0 |
 
 ## Usages
 
