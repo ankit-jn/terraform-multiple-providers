@@ -1,6 +1,6 @@
 # ARJ-Stack: Terraform -> Dealing with Multiple Providers
 
-This Example Configuration is a demonstration of dealing with multiple providers. For the sake of easiness, we have taken exaxmple of ressource provisioning in AWS and Azure cloud while also dealing with HTTP provider to deal with HTTP(s) URL.
+This Example Configuration is a demonstration of dealing with multiple providers. To keep the case simple, we have taken an example of resource provisioning in AWS and Azure cloud while also introducing HTTP provider to deal with HTTP(s) URL.
 
 #### Resources to be provisioned as an outcome of this example
 ---
