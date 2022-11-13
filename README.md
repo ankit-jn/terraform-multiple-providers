@@ -1,4 +1,4 @@
-# ARJ-Stack: Terraform -> Dealing with Multiple Providers
+## ARJ-Stack: Terraform -> Dealing with Multiple Providers
 
 This Example Configuration is a demonstration of dealing with multiple providers. To keep the case simple, we have taken an example of resource provisioning in AWS and Azure cloud while also introducing HTTP provider to deal with HTTP(s) URL.
 
@@ -34,7 +34,7 @@ This Example Configuration is a demonstration of dealing with multiple providers
 |:------|:------|:------|:------|
 | 1 | `http.terraform-check` |  |  |
 
-## Requirements
+### Requirements
 
 | Name | Version |
 |------|---------|
@@ -43,7 +43,7 @@ This Example Configuration is a demonstration of dealing with multiple providers
 | <a name="requirement_azurerm"></a> [azurerm](#requirement\_aws) | 3.14.0 |
 | <a name="requirement_http"></a> [http](#requirement\_aws) | 2.2.0 |
 
-## Providers
+### Providers
 
 | Name | Version |
 |------|---------|
@@ -51,7 +51,7 @@ This Example Configuration is a demonstration of dealing with multiple providers
 | <a name="provider_azurerm"></a> [azurerm](#provider\_azurerm) | 3.14.0 |
 | <a name="provider_http"></a> [http](#provider\_http) | 2.2.0 |
 
-## Usages
+### Usages
 
 To run this example you need to execute:
 
@@ -63,6 +63,6 @@ $ terraform apply
 
 Note: Select the correct the AWS provider configurations in `provider.tf` file
 
-## Authors
+### Authors
 
 Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/terraform-multiple-providers/graphs/contributors).
