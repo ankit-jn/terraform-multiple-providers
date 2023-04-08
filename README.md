@@ -65,4 +65,4 @@ Note: Select the correct the AWS provider configurations in `provider.tf` file
 
 ### Authors
 
-Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/arjstack/terraform-multiple-providers/graphs/contributors).
+Module is maintained by [Ankit Jain](https://github.com/ankit-jn) with help from [these professional](https://github.com/ankit-jn/terraform-multiple-providers/graphs/contributors).
